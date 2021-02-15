@@ -1,0 +1,17 @@
+.moreInfoLink {
+  margin: auto;
+}
+
+.details-col {
+  height: 530px;
+  overflow: auto;
+}
+
+img {
+  height: auto;
+  width: 100%;
+}
+
+.card-deck {
+  margin: auto;
+}
